@@ -37,3 +37,4 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 |
+| [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 |
