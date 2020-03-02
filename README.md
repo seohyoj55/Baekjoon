@@ -15,6 +15,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 |
 | [1427](https://www.acmicpc.net/problem/1427) | 소트인사이드 |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 |
+| [1931](https://www.acmicpc.net/problem/1931) | 회의실배정 |
 | [2225](https://www.acmicpc.net/problem/2225) | 합분해 |
 | [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 |
 | [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 |
