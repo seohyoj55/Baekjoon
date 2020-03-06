@@ -37,4 +37,5 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 |
-| [5543](https://www.acmicpc.net/problem/5543) |  |
+| [5543](https://www.acmicpc.net/problem/5543) | 상근날드 |
+| [18230](https://www.acmicpc.net/problem/18230) | 2xN 예쁜 타일링|
