@@ -16,6 +16,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1427](https://www.acmicpc.net/problem/1427) | 소트인사이드 |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 |
 | [1931](https://www.acmicpc.net/problem/1931) | 회의실배정 |
+| [2156](https://www.acmicpc.net/problem/2156) | 포도주 시식 |
 | [2225](https://www.acmicpc.net/problem/2225) | 합분해 |
 | [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 |
 | [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 |
@@ -36,6 +37,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 |
+| [2753](https://www.acmicpc.net/problem/2753) | 윤년 |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 |
-| [18230](https://www.acmicpc.net/problem/18230) | 2xN 예쁜 타일링|
+| [18230](https://www.acmicpc.net/problem/18230) | 2xN 예쁜 타일링 |
