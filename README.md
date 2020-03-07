@@ -42,4 +42,5 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 |
+| [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B |
 | [18230](https://www.acmicpc.net/problem/18230) | 2xN 예쁜 타일링 |
