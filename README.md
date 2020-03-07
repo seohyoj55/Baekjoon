@@ -37,6 +37,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World |
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 |
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 |
+| [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 |
