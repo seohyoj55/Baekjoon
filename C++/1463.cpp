@@ -5,9 +5,9 @@ using namespace std;
 long long d[1000001];
 
 long long dp(long long n) {
-	if (n == 1) return d[1] = 0;
-	if (n == 2) return d[2] = 1;
-	if (n == 3) return d[3] = 1;
+	if (n == 1) return 0;
+	if (n == 2) return 1;
+	if (n == 3) return 1;
 	if (d[n])
 		return d[n];
 	if (n % 3 == 0 && n % 2 == 0)
