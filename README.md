@@ -45,4 +45,5 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B |
 | [10808](https://www.acmicpc.net/problem/10808) | 알파벳 개수 |
+| [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 |
 | [18230](https://www.acmicpc.net/problem/18230) | 2xN 예쁜 타일링 |
