@@ -48,6 +48,6 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10818.cpp) |
 | [10820](https://www.acmicpc.net/problem/10820) | 문자열 분석 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10820.cpp) |
 | [10926](https://www.acmicpc.net/problem/10926) | ??! | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/10926.py) |
-| [12865](https://www.acmicpc.net/problem/10820) | 평범한 배낭 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/12865.cpp) |
+| [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/12865.cpp) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/15552.c) |
 | [18230](https://www.acmicpc.net/problem/18230) | 2xN 예쁜 타일링 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/18230.cpp) |
