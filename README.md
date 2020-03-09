@@ -37,10 +37,10 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2557.c) |
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2558.c) |
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2577.c) |
-| [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | [](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2675.cpp) |
+| [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2675.cpp) |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2739.c) |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2741.c) |
-| [2753](https://www.acmicpc.net/problem/2753) | 윤년 | [](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2753.cpp) |
+| [2753](https://www.acmicpc.net/problem/2753) | 윤년 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2753.cpp) |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2960.cpp) |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/5543.cpp) |
 | [5622](https://www.acmicpc.net/problem/5622) | 다이얼 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/5622.cpp) |
