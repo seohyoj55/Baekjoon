@@ -1,9 +1,9 @@
 
 Baekjoon Online Judge (https://www.acmicpc.net)
 ----------
-| 문제 번호 | 문제 이름 | 
-| --- | --- |
-| [1000](https://www.acmicpc.net/problem/1000) | A+B | 
+| 문제 번호 | 문제 이름 | 소스코드 |
+| --- | --- | --- |
+| [1000](https://www.acmicpc.net/problem/1000) | A+B | [소스코드](https://github.com/seohyoj55/Baekjoon/blob/master/C/1000.c) |
 | [1001](https://www.acmicpc.net/problem/1001) | A-B | 
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | 
 | [1076](https://www.acmicpc.net/problem/1076) | 저항 |
