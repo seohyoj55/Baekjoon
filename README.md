@@ -24,11 +24,11 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2439.c) |
 | [2440](https://www.acmicpc.net/problem/2440) | 별 찍기 - 3 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2440.c) |
 | [2441](https://www.acmicpc.net/problem/2441) | 별 찍기 - 4 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2441.c) |
-| [2442](https://www.acmicpc.net/problem/2442) | 별 찍기 - 5 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2442.c) |
-| [2443](https://www.acmicpc.net/problem/2443) | 별 찍기 - 6 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2443.c) |
-| [2444](https://www.acmicpc.net/problem/2444) | 별 찍기 - 7 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2444.c) |
-| [2445](https://www.acmicpc.net/problem/2445) | 별 찍기 - 8 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2445.c) |
-| [2446](https://www.acmicpc.net/problem/2446) | 별 찍기 - 9 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2446.c) |
+| [2442](https://www.acmicpc.net/problem/2442) | 별 찍기 - 5 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2442.py) |
+| [2443](https://www.acmicpc.net/problem/2443) | 별 찍기 - 6 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2443.py) |
+| [2444](https://www.acmicpc.net/problem/2444) | 별 찍기 - 7 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2444.py) |
+| [2445](https://www.acmicpc.net/problem/2445) | 별 찍기 - 8 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2445.py) |
+| [2446](https://www.acmicpc.net/problem/2446) | 별 찍기 - 9 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2446.py) |
 | [2455](https://www.acmicpc.net/problem/2455) | 지능형 기차 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2455.py) |
 | [2522](https://www.acmicpc.net/problem/2522) | 별 찍기 - 12 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2522.py) |
 | [2523](https://www.acmicpc.net/problem/2523) | 별 찍기 - 13 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2523.py) |
