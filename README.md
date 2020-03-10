@@ -42,6 +42,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2741.c) |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2753.cpp) |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2960.cpp) |
+| [4344](https://www.acmicpc.net/problem/4344) | 평균은 넘겠지 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/4344.cpp) |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/5543.cpp) |
 | [5622](https://www.acmicpc.net/problem/5622) | 다이얼 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/5622.cpp) |
 | [10808](https://www.acmicpc.net/problem/10808) | 알파벳 개수 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10808.cpp) |
