@@ -47,7 +47,9 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/5543.cpp) |
 | [5622](https://www.acmicpc.net/problem/5622) | 다이얼 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/5622.cpp) |
 | [10808](https://www.acmicpc.net/problem/10808) | 알파벳 개수 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10808.cpp) |
+| [10817](https://www.acmicpc.net/problem/10817) | 세 수 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10817.c) |
 | [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10818.cpp) |
+| [10828](https://www.acmicpc.net/problem/10828) | 스택 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10828.cpp) |
 | [10820](https://www.acmicpc.net/problem/10820) | 문자열 분석 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10820.cpp) |
 | [10926](https://www.acmicpc.net/problem/10926) | ??! | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/10926.py) |
 | [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/12865.cpp) |
