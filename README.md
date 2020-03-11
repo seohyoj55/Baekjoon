@@ -41,7 +41,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2675.cpp) |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2739.c) |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2741.c) |
-| [2783](https://www.acmicpc.net/problem/2783) | 삼각김밥 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2783.py) |
+| [2783](https://www.acmicpc.net/problem/2783) | 삼각 김밥 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2783.py) |
 | [2798](https://www.acmicpc.net/problem/2798) | 블랙잭 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2798.cpp) |
 | [2753](https://www.acmicpc.net/problem/2753) | 윤년 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2753.cpp) |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2960.cpp) |
