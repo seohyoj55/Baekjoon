@@ -6,6 +6,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1000](https://www.acmicpc.net/problem/1000) | A+B | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/1000.c) |
 | [1001](https://www.acmicpc.net/problem/1001) | A-B | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/1001.c) |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/1008.py) |
+| [1037](https://www.acmicpc.net/problem/1037) | 약수 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/1037.cpp) |
 | [1076](https://www.acmicpc.net/problem/1076) | 저항 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/1076.c) |
 | [1085](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/1085.py) |
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/1094.c) |
