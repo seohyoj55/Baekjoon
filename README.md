@@ -57,6 +57,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [10820](https://www.acmicpc.net/problem/10820) | 문자열 분석 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10820.cpp) |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10869.c) |
 | [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10871.c) |
+| [10872](https://www.acmicpc.net/problem/10872) | 팩토리얼 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10872.c) |
 | [10926](https://www.acmicpc.net/problem/10926) | ??! | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/10926.py) |
 | [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/12865.cpp) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/15552.c) |
