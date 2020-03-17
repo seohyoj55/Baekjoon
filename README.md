@@ -38,6 +38,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2556](https://www.acmicpc.net/problem/2556) | 별 찍기 - 14 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2556.c) |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2557.c) |
 | [2558](https://www.acmicpc.net/problem/2558) | A+B - 2 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2558.c) |
+| [2562](https://www.acmicpc.net/problem/2562) | 최댓값 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2562.c) |
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2577.c) |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2675.cpp) |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2739.c) |
