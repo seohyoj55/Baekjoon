@@ -32,6 +32,7 @@
 | [2445](https://www.acmicpc.net/problem/2445) | 별 찍기 - 8 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2445.py) |
 | [2446](https://www.acmicpc.net/problem/2446) | 별 찍기 - 9 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2446.py) |
 | [2447](https://www.acmicpc.net/problem/2447) | 별 찍기 - 10 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2447.cpp) |
+| [2448](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2448.cpp) |
 | [2455](https://www.acmicpc.net/problem/2455) | 지능형 기차 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2455.py) |
 | [2522](https://www.acmicpc.net/problem/2522) | 별 찍기 - 12 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2522.py) |
 | [2523](https://www.acmicpc.net/problem/2523) | 별 찍기 - 13 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2523.py) |
