@@ -65,6 +65,7 @@
 | [10926](https://www.acmicpc.net/problem/10926) | ??! | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/10926.py) |
 | [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10951.c) |
 | [10952](https://www.acmicpc.net/problem/10952) | A+B - 5 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10952.c) |
+| [10953](https://www.acmicpc.net/problem/10953) | A+B - 6 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10953.c) |
 | [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/12865.cpp) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/15552.c) |
 | [18230](https://www.acmicpc.net/problem/18230) | 2xN 예쁜 타일링 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/18230.cpp) |
