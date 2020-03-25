@@ -67,7 +67,7 @@
 | [10952](https://www.acmicpc.net/problem/10952) | A+B - 5 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10952.c) |
 | [10953](https://www.acmicpc.net/problem/10953) | A+B - 6 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10953.c) |
 | [10993](https://www.acmicpc.net/problem/10993) | 별 찍기 - 18 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10993.cpp) |
-| [10994](https://www.acmicpc.net/problem/10994) | A+B - 19 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10994.c) |
+| [10994](https://www.acmicpc.net/problem/10994) | 별  - 19 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10994.c) |
 | [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/12865.cpp) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/15552.c) |
 | [18230](https://www.acmicpc.net/problem/18230) | 2xN 예쁜 타일링 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/18230.cpp) |
