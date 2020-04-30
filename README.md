@@ -70,6 +70,7 @@
 | [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10951.c) |
 | [10952](https://www.acmicpc.net/problem/10952) | A+B - 5 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10952.c) |
 | [10953](https://www.acmicpc.net/problem/10953) | A+B - 6 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10953.c) |
+| [10972](https://www.acmicpc.net/problem/10972) | 다음 순열 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10972.cpp) |
 | [10973](https://www.acmicpc.net/problem/10973) | 이전 순열 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10973.cpp) |
 | [10990](https://www.acmicpc.net/problem/10990) | 별 찍기 - 15 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/10990.py) |
 | [10991](https://www.acmicpc.net/problem/10991) | 별 찍기 - 16 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/10991.py) |
@@ -83,4 +84,3 @@
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/15552.c) |
 | [15988](https://www.acmicpc.net/problem/15988) | 1,2,3 더하기 3 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/15988.cpp) |
 | [18230](https://www.acmicpc.net/problem/18230) | 2xN 예쁜 타일링 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/18230.cpp) |
-
