@@ -72,6 +72,7 @@
 | [10953](https://www.acmicpc.net/problem/10953) | A+B - 6 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10953.c) |
 | [10972](https://www.acmicpc.net/problem/10972) | 다음 순열 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10972.cpp) |
 | [10973](https://www.acmicpc.net/problem/10973) | 이전 순열 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10973.cpp) |
+| [10974](https://www.acmicpc.net/problem/10974) | 모든 순열 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10974.cpp) |
 | [10990](https://www.acmicpc.net/problem/10990) | 별 찍기 - 15 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/10990.py) |
 | [10991](https://www.acmicpc.net/problem/10991) | 별 찍기 - 16 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/10991.py) |
 | [10992](https://www.acmicpc.net/problem/10992) | 별 찍기 - 17 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/10992.py) |
