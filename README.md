@@ -58,7 +58,7 @@
 | [2914](https://www.acmicpc.net/problem/2914) | 저작권 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2914.py) |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2960.cpp) |
 | [4344](https://www.acmicpc.net/problem/4344) | 평균은 넘겠지 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/4344.cpp) |
-| [5337](https://www.acmicpc.net/problem/2914) | 웰컴 | [5337](https://github.com/seohyoj55/Baekjoon/blob/master/python/5337.py) |
+| [5337](https://www.acmicpc.net/problem/5337) | 웰컴 | [5337](https://github.com/seohyoj55/Baekjoon/blob/master/python/5337.py) |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/5543.cpp) |
 | [5585](https://www.acmicpc.net/problem/5585) | 거스름돈 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/5585.cpp) |
 | [5622](https://www.acmicpc.net/problem/5622) | 다이얼 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/5622.cpp) |
