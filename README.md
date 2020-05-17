@@ -88,9 +88,8 @@
 | [11047](https://www.acmicpc.net/problem/11047) | 동전 0 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/11047.cpp) |
 | [11399](https://www.acmicpc.net/problem/11399) | ATM | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/11399.cpp) |
 | [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/12865.cpp) |
+| [13015](https://www.acmicpc.net/problem/13015) | 별 찍기 - 23 | [Python]
 | [14501](https://www.acmicpc.net/problem/14501) | 퇴사 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/14501.cpp) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/15552.c) |
 | [15988](https://www.acmicpc.net/problem/15988) | 1,2,3 더하기 3 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/15988.cpp) |
 | [18230](https://www.acmicpc.net/problem/18230) | 2xN 예쁜 타일링 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/18230.cpp) |
-
-
