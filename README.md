@@ -14,6 +14,7 @@
 | [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/1152.py) |
 | [1158](https://www.acmicpc.net/problem/1158) | 요세푸스 문제 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/1158.cpp) |
 | [1237](https://www.acmicpc.net/problem/1237) | 정ㅋ벅ㅋ | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/1237.py) |
+| [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/1271.py) |
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/1330.c) |
 | [1427](https://www.acmicpc.net/problem/1427) | 소트인사이드 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/1427.c) |
 | [1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/1436.cpp) |
