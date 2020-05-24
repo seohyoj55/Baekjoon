@@ -71,6 +71,7 @@
 | [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10818.cpp) |
 | [10828](https://www.acmicpc.net/problem/10828) | 스택 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10828.c) |
 | [10820](https://www.acmicpc.net/problem/10820) | 문자열 분석 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10820.cpp) |
+| [10866](https://www.acmicpc.net/problem/10866) | 덱 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/10866.cpp) |
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10869.c) |
 | [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10871.c) |
 | [10872](https://www.acmicpc.net/problem/10872) | 팩토리얼 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/10872.c) |
