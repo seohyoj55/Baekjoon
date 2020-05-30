@@ -13,6 +13,7 @@
 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/1110.c) |
 | [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/1152.py) |
 | [1158](https://www.acmicpc.net/problem/1158) | 요세푸스 문제 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/1158.cpp) |
+| [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/1212.py) |
 | [1237](https://www.acmicpc.net/problem/1237) | 정ㅋ벅ㅋ | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/1237.py) |
 | [1271](https://www.acmicpc.net/problem/1271) | 엄청난 부자2 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/1271.py) |
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/1330.c) |
