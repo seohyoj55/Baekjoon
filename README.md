@@ -27,6 +27,7 @@
 | [1931](https://www.acmicpc.net/problem/1931) | 회의실배정 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/1931.cpp) |
 | [2156](https://www.acmicpc.net/problem/2156) | 포도주 시식 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2156.cpp) |
 | [2167](https://www.acmicpc.net/problem/2167) | 2차원 배열의 합 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2167.py) |
+| [2178](https://www.acmicpc.net/problem/2178) | 미로 탐색 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2178.py) |
 | [2193](https://www.acmicpc.net/problem/2193) | 이친수 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2193.cpp) |
 | [2225](https://www.acmicpc.net/problem/2225) | 합분해 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2225.cpp) |
 | [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2438.c) |
