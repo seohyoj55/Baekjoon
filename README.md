@@ -66,6 +66,7 @@
 | [2903](https://www.acmicpc.net/problem/2903) | 중앙 이동 알고리즘 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2903.py) |
 | [2914](https://www.acmicpc.net/problem/2914) | 저작권 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2914.py) |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2960.cpp) |
+| [2991](https://www.acmicpc.net/problem/2991) | 사나운 개 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2991.c) |
 | [3049](https://www.acmicpc.net/problem/3049) | 다각형의 대각선 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/3049.py) |
 | [4344](https://www.acmicpc.net/problem/4344) | 평균은 넘겠지 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/4344.cpp) |
 | [5337](https://www.acmicpc.net/problem/5337) | 웰컴 | [5337](https://github.com/seohyoj55/Baekjoon/blob/master/python/5337.py) |
