@@ -55,6 +55,7 @@
 | [2576](https://www.acmicpc.net/problem/2576) | 홀수 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2576.c) |
 | [2577](https://www.acmicpc.net/problem/2577) | 숫자의 개수 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2577.c) |
 | [2587](https://www.acmicpc.net/problem/2587) | 대표값2 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2587.c) |
+| [2588](https://www.acmicpc.net/problem/2588) | 곱셈 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2588.c) |
 | [2675](https://www.acmicpc.net/problem/2675) | 문자열 반복 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2675.cpp) |
 | [2739](https://www.acmicpc.net/problem/2739) | 구구단 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2739.c) |
 | [2741](https://www.acmicpc.net/problem/2741) | N 찍기 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2741.c) |
