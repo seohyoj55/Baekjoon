@@ -71,6 +71,7 @@
 | [2908](https://www.acmicpc.net/problem/2908) | 상수 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2908.c) |
 | [2914](https://www.acmicpc.net/problem/2914) | 저작권 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/2914.py) |
 | [2920](https://www.acmicpc.net/problem/2920) | 음계 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2920.c) |
+| [2947](https://www.acmicpc.net/problem/2947) | 나무 조각 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2947.c) |
 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/2960.cpp) |
 | [2991](https://www.acmicpc.net/problem/2991) | 사나운 개 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2991.c) |
 | [3049](https://www.acmicpc.net/problem/3049) | 다각형의 대각선 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/3049.py) |
