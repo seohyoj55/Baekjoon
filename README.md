@@ -76,6 +76,7 @@
 | [2991](https://www.acmicpc.net/problem/2991) | 사나운 개 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/2991.c) |
 | [3009](https://www.acmicpc.net/problem/3009) | 네 번째 점 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/3009.c) |
 | [3049](https://www.acmicpc.net/problem/3049) | 다각형의 대각선 | [Python](https://github.com/seohyoj55/Baekjoon/blob/master/python/3049.py) |
+| [4153](https://www.acmicpc.net/problem/4153) | 직각삼각형 | [C](https://github.com/seohyoj55/Baekjoon/blob/master/C/4153.c) |
 | [4344](https://www.acmicpc.net/problem/4344) | 평균은 넘겠지 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/4344.cpp) |
 | [5337](https://www.acmicpc.net/problem/5337) | 웰컴 | [5337](https://github.com/seohyoj55/Baekjoon/blob/master/python/5337.py) |
 | [5543](https://www.acmicpc.net/problem/5543) | 상근날드 | [C++](https://github.com/seohyoj55/Baekjoon/blob/master/C%2B%2B/5543.cpp) |
